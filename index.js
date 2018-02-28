@@ -1,12 +1,12 @@
-var name = "Joe"
+var name = "Nada"
 var height = "74"
 
 
 // Don't worry about this
 module.exports = { name, height
 }
-if (name === "Susan") {
+if (name === "Nada") {
   console.log("The name is correct")
 } else {
-    console.log("Expeted the name to  be Susan")
+    console.log("Expected the name to be Nada")
 }
